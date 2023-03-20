@@ -1,13 +1,16 @@
 Hello, I am Alex!
 
-I am an aspiring Software Engineer!
+I am a Software Developer
 
-I am currently learning Python and working towards getting certified in the language.
+I am currently attending Weber State University for my Bachelor's in Computer Science
 
-I am currently certified in:
+I am currently refining my skills in Javascript for Website Development
+
+Here is my Stack:
 Java
-CSS
-HTML
+Python
+HTML/CSS
+Javascript
+MySQL
 
 If you would like to contact me: alexward031304@gmail.com
-
